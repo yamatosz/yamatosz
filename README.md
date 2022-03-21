@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/yamatosz">
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&disable_animations=false&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 ##
