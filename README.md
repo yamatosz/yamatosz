@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/yamatosz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=10&theme=dracula&card_width=240"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai&card_width=250"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yamato-Html" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
