@@ -1,12 +1,12 @@
-## Oioi eu sou Yamatosz
+## Oioi eu sou o Lucas José
+# Estudante de Ciência da Computação - 2ºPeríodo
+# Universidade Federal do Tocantins
+# Atualemente estudando Python e C
 
-- 🔭 Atualmente eu estou cursando Ciência da Computação
-- 🌱 Estou aprendendo Python e C
-- 😄 Pronouns: ele/dela
 <div align="center">
   <a href="https://github.com/yamatosz">
-  <img height="170em" widht="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&disable_animations=false&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="170em" widht="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##
