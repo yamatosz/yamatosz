@@ -1,5 +1,5 @@
 ## Oioi eu sou o Lucas José
-<div align="center">
+<div align="justify-content">
   <a href="https://github.com/yamatosz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai&card_width=250"/>
