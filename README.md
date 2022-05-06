@@ -5,13 +5,16 @@
 - 😄 Pronouns: ele/dela
 <div align="center">
   <a href="https://github.com/yamatosz">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&disable_animations=false&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&disable_animations=false&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatosz&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Yamato-Html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Yamato-Css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Yamato-Css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Yamato-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Yamato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Yamato-gif" height ="200" widht="200" src="https://cdn.discordapp.com/attachments/822800826140590120/927249451624587365/Gif.gif">
