@@ -1,7 +1,7 @@
 ## Oioi eu sou o Lucas José
-### Estudante de ciência da computação
-### Universidade Federal do Tocantins
-### Segundo período
+#### Estudante de ciência da computação
+#### Universidade Federal do Tocantins
+#### Segundo período
 <div align="center">
   <a href="https://github.com/yamatosz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamatosz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
