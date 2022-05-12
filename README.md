@@ -1,6 +1,5 @@
 ## Oioi eu sou o Lucas José
-#### Estudante de ciência da computação
-#### Universidade Federal do Tocantins
+### Estudante de Ciência da Computação - Universidade Federal do Tocantins
 #### Segundo período
 <div align="center">
   <a href="https://github.com/yamatosz">
